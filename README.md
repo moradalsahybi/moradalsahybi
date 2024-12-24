@@ -12,8 +12,9 @@ I have a passion for creating beautiful and functional web applications.
 - ⚡ Fun fact: I love exploring new tools and technologies in web development.
 
 ## Contact Me
-- 📧 [Your Email](mailto:your.email@example.com)
-- 💼 [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+https://linkedin.com/in/morad-alsahybi
+https://facebook.com/morad.alsahybi
+https://twitter.com/MoradAlsahybi
 
 ## Skills
 - HTML
@@ -23,6 +24,3 @@ I have a passion for creating beautiful and functional web applications.
 - UI/UX Design
 
 Thank you for visiting!
-- تصميم واجهة المستخدم/تجربة المستخدم
-
-شكراً لزيارتك!
